@@ -1,2 +1,2 @@
-# Netflix-snowflakeSQL
-Netflix Data Analysis Using SnowflakeSQL
+# Netflix-PostgreSQL
+Netflix Data Analysis Using postgresql
